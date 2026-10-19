@@ -40,7 +40,8 @@ GitHub is used for version control and collaborative development.
 ## Team
 
 - Fatima Sohail – Product Owner + Developer
-- Hamza Tariq – Scrum Master + Developer
+- Hamza Tariq – Developer + Tester	
+- Fatima Atiq - Scrum Master + Developer
 
 ## Project Status
 
