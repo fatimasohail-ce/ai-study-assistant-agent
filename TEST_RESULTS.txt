@@ -1,0 +1,12 @@
+test_adapter_missing_key (test_study_assistant.StudyAssistantTests.test_adapter_missing_key) ... ok
+test_adapter_missing_model (test_study_assistant.StudyAssistantTests.test_adapter_missing_model) ... ok
+test_api_failure (test_study_assistant.StudyAssistantTests.test_api_failure) ... ok
+test_empty_question (test_study_assistant.StudyAssistantTests.test_empty_question) ... ok
+test_empty_response (test_study_assistant.StudyAssistantTests.test_empty_response) ... ok
+test_missing_key (test_study_assistant.StudyAssistantTests.test_missing_key) ... ok
+test_success (test_study_assistant.StudyAssistantTests.test_success) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.003s
+
+OK
